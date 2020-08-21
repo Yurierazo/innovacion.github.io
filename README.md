@@ -1,1 +1,1 @@
-# chekandsit
+# checkandsit
